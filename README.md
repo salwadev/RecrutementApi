@@ -2,15 +2,6 @@
 
 Ce projet est une application de gestion des candidatures de recrutement développée avec Flask. L'application permet de gérer les candidats, les compétences, et les processus d'entretien.
 
-## Table des matières
-
-- [Fonctionnalités](#fonctionnalités)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [API](#api)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
 
 ## Fonctionnalités
 
@@ -25,7 +16,6 @@ Ce projet est une application de gestion des candidatures de recrutement dévelo
 - Flask
 - Flask-SQLAlchemy
 - SQLite (ou une autre base de données)
-- Jinja2 (pour le rendu des templates)
 
 ## Installation
 
