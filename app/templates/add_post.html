@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajouter un poste</title>
+</head>
+<body>
+    <h1>Ajouter un nouveau poste</h1>
+    <form method="POST" action="/add_post">
+        <label for="titre">Titre du Poste:</label>
+        <input type="text" id="titre" name="titre" required>
+    
+        <label for="missions">Missions:</label>
+        <textarea id="missions" name="missions" required></textarea>
+    
+        <label for="competences">Compétences:</label>
+        <textarea id="competences" name="competences" required></textarea>
+    
+        <!-- Ajoute d'autres champs comme diplômes, expérience, salaire, etc. -->
+        
+        <button type="submit">Ajouter le poste</button>
+    </form>
+    
+</body>
+</html>
+
+

@@ -1,0 +1,29 @@
+# Fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Environnements virtuels
+venv/
+recrutement/
+.env
+
+# Fichiers de configuration de l'IDE
+.vscode/
+.idea/
+
+# Fichiers de base de données
+*.db
+*.sqlite3
+
+# Fichiers de logs
+*.log
+
+# Dossiers de build et de distribution
+build/
+dist/
+*.egg-info/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
