@@ -31,3 +31,8 @@ Ce projet est une application de gestion des candidatures de recrutement dévelo
 
 Pour installer le projet, suivez ces étapes :
 
+1. Clonez le dépôt :
+
+   ```bash
+   git clone https://github.com/salwadev/RecrutementApi.git
+   cd RecrutementApi
